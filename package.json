@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexmtz900/Node/issues"
   },
-  "homepage": "https://github.com/alexmtz900/Node#readme"
+  "homepage": "https://github.com/alexmtz900/Node#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
